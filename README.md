@@ -2,7 +2,7 @@
 
 ![valid XHTML][checkmark]
 
-# react-coreui-labs
+# react-coreui
 
 ## Contribuição
 
